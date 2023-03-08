@@ -27,7 +27,7 @@ I have experience using tools listed and I am proficient in some programming lan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/461243772257435658"><img src="https://discord.c99.nl/widget/theme-4/1082392009890877440.png"/>
+<a href="https://discord.com/users/461243772257435658"><img src="https://discord.c99.nl/widget/theme-4/461243772257435658.png"/>
 </p>
 
 <hr/>
